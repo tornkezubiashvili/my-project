@@ -1,0 +1,69 @@
+.Home{
+    margin-right: 50px;
+    color: red;
+    font-size: 20px;
+    transform: 0.5s;  
+}
+.Home:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.about{
+    margin-right: 300px;
+    font-size: 20px;
+    color: red;
+    transform: 0.5s;
+}
+.about:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.signin{
+    margin-left: -250px;
+    font-size: 20px;
+    color: red;
+    transform: 0.5s;
+}
+.signin:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.registerbody{
+    background-color: rgba(27, 204, 204, 0.932);
+}
+.Register{
+    margin-top: 200px;
+}
+.name{
+    width: 250px;
+    height: 25px;
+}
+.surname{
+    width: 250px;
+    height: 25px;
+}
+.email{
+    width: 250px;
+    height: 25px;
+}
+.password{
+    width: 250px;
+    height: 25px;
+}
+.submit{
+    width: 150px;
+    height: 25px;
+    color: black;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    translate: 2s;
+}
+.submit:hover{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    color: dodgerblue; 
+}

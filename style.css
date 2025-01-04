@@ -1,0 +1,61 @@
+.Home{
+    margin-right: 50px;
+    color: red;
+    font-size: 20px;
+    transform: 0.5s;  
+}
+.Home:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.about{
+    margin-right: 300px;
+    font-size: 20px;
+    color: red;
+    transform: 0.5s;
+}
+.about:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.signin{
+    margin-left: -250px;
+    font-size: 20px;
+    color: red;
+    transform: 0.5s;
+}
+.signin:hover{
+    color: rgb(21, 126, 196);
+    font-size: 25px;
+}
+.AMG{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 130px;
+    margin-left: 40px;
+
+}
+.BMW{
+   width: 180px;
+   height: 180px;
+   border-radius: 50%;
+   margin-left: 450px;
+   transform:translateY(-180px)
+}
+.LAMBO{
+    width: 180px;
+    height: 190px;
+    margin-left: 850px;
+    transform: translateY(-360px);
+}
+.ferrari{
+    width: 150px;
+    margin-left: 1300px;
+    transform: translateY(-550px);
+}
+.DODGE{
+    width: 230px;
+    margin-left: 1590px;
+    transform: translateY(-755px);
+}
