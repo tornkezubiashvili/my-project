@@ -197,6 +197,7 @@ main {
     font-size: 18px;
     font-weight: 300;
     border: 1px solid #262626;
+    z-index: 67;
 
 }
 
@@ -218,6 +219,7 @@ main {
     font-size: 18px;
     font-weight: 300;
     background-color: #1A1A1A;
+    z-index: 56;
 }
 
 .section1-footer {
